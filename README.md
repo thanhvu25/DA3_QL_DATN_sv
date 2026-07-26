@@ -11,5 +11,9 @@ Mục tiêu cụ thể
 •	Thực hiện kiểm thử và ghi nhận kết quả kiểm thử của hệ thống.
 •	Phân tích kết quả kiểm thử, phát hiện lỗi và đưa ra đánh giá về chất lượng hệ thống. 
 
+main branch: báo cáo & các data sử dụng cho TC
+katalon branch: các TC trong katalon
+
+
 
 
