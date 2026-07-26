@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-S05-01.Xem_quy_trinh_HD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c9530d1a-d393-4aee-b8c8-ebf1bf35e659</testCaseGuid>
+</TestCaseEntity>

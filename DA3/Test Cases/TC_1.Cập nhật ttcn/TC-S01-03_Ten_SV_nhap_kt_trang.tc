@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-S01-03_Ten_SV_nhap_kt_trang</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af54fcc3-f2e6-465e-a748-04b35db27f88</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt-Trang-chu</name>
+   <tag></tag>
+   <elementGuidId>ac2c30a0-bc5e-41a8-bf4b-f0391ade3c53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='breadcrumbs']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.breadcrumb > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>de6b6472-fc72-4852-9caf-d92612ea956f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/</value>
+      <webElementGuid>1beeca73-d2b4-4c8d-86c8-4b1ead30f5ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trang chủ</value>
+      <webElementGuid>6e53e3de-0e7e-4df0-b27c-fde60f5e4274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;breadcrumbs&quot;)/ul[@class=&quot;breadcrumb&quot;]/li[1]/a[1]</value>
+      <webElementGuid>ff898788-028a-4403-b6a6-9c85a25003a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='breadcrumbs']/ul/li/a</value>
+      <webElementGuid>3b9f7273-a873-4867-a2ae-2272800dedea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Trang chủ')]</value>
+      <webElementGuid>10319333-6d9a-4284-a1f9-aa61de0576aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bàn làm việc'])[3]/preceding::a[1]</value>
+      <webElementGuid>d51f6517-ab2e-43d5-a7f2-c94c8d08a4fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DANH MỤC CÁC PHÂN HỆ MÀ NGƯỜI DÙNG ĐƯỢC PHÂN QUYỀN'])[1]/preceding::a[1]</value>
+      <webElementGuid>c4e02f25-0c8c-4d7f-bcc9-738eee3634b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Trang chủ']/parent::*</value>
+      <webElementGuid>3cf5b4a5-7da8-4348-addb-212e5ba0a1d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#/')])[3]</value>
+      <webElementGuid>1b613a67-283d-45ed-9bff-977b6057352d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-dashboard/div/ul/li/a</value>
+      <webElementGuid>6df80fad-0c09-4561-967d-9b30dda8b5bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/' and (text() = 'Trang chủ' or . = 'Trang chủ')]</value>
+      <webElementGuid>bffb5b3f-93ee-47d4-8cb4-bc5f7ee02b43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

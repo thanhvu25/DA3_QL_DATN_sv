@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-S05-08-Chua_dang_nhap</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>601b8192-373f-497e-8b01-cb568cf7ed73</testCaseGuid>
+</TestCaseEntity>

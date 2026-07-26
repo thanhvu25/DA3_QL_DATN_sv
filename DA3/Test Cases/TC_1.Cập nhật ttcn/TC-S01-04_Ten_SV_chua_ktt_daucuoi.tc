@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-S01-04_Ten_SV_chua_ktt_daucuoi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b0a762b2-538f-40b9-9bbc-2e834ce1a268</testCaseGuid>
+</TestCaseEntity>

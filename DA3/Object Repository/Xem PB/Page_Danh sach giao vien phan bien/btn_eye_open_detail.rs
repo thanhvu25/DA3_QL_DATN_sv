@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_eye_open_detail</name>
+   <tag></tag>
+   <elementGuidId>3a9f31fd-c4da-4529-b011-269a680117fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-0-content']/div/p-table/div/div/table/tbody/tr/td[8]/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.ace-icon.fa.fa-eye</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>914d13cf-bb12-452e-ae43-7971fa497272</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ace-icon fa fa-eye</value>
+      <webElementGuid>87724baf-46f4-4825-a9c5-f9c97c6039a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-0-content&quot;)/div[@class=&quot;ui-panel-content ui-widget-content&quot;]/p-table[1]/div[@class=&quot;ui-table ui-widget&quot;]/div[@class=&quot;ui-table-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;ui-selectable-row ng-star-inserted&quot;]/td[@class=&quot;action-col&quot;]/div[@class=&quot;btn-group ng-star-inserted&quot;]/button[@class=&quot;btn btn-xs btn-white btn-default&quot;]/i[@class=&quot;ace-icon fa fa-eye&quot;]</value>
+      <webElementGuid>963e0221-741a-452d-99ce-0a87f7a984a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-0-content']/div/p-table/div/div/table/tbody/tr/td[8]/div/button/i</value>
+      <webElementGuid>ef1f8ff5-bc9e-4ee9-a16c-fddfe332d496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>9ed70024-9664-4ff5-8d2f-1fe86c2b788e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

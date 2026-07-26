@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Nhan_xet_PB</name>
+   <tag></tag>
+   <elementGuidId>ebe366e9-ee84-4119-b59e-1ed39c64e173</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='updateForm']/div/div/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>83feab14-1263-43c5-8d32-6587591ab7da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anh còn những thiếu sót Đang cố gắng để hoàn thiện hơn Em toan tính thiệt hơn Chuyện nhỏ con xé cho thành lớn Không thể nào chịu nổi Em cắt tơ hồng làm đôi Muốn về phương trời mới Quãng đời sẽ sáng ngời</value>
+      <webElementGuid>1f513a3c-52b0-4dfa-bd7c-3b0afc40ade5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;updateForm&quot;)/div[@class=&quot;row ui-fluid&quot;]/div[@class=&quot;ui-g-12 ui-form-group&quot;]/div[@class=&quot;ui-g-12 ui-md-10&quot;]/div[1]/p[1]</value>
+      <webElementGuid>8bc04b24-517c-45f6-982d-923c4d4830f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='updateForm']/div/div/div[2]/div/p</value>
+      <webElementGuid>4b2f660d-75b0-4e13-a340-884064c88e83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhận xét'])[1]/following::p[1]</value>
+      <webElementGuid>bf35ff18-6d9d-4112-b6eb-24cc405f4733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kết quả giảng viên góp ý trước khi tiến hành phản biện'])[1]/following::p[1]</value>
+      <webElementGuid>bbe99ec5-b6c1-4510-94c2-982d9588baca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Anh còn những thiếu sót Đang cố gắng để hoàn thiện hơn Em toan tính thiệt hơn Chuyện nhỏ con xé cho thành lớn Không thể nào chịu nổi Em cắt tơ hồng làm đôi Muốn về phương trời mới Quãng đời sẽ sáng ngời']/parent::*</value>
+      <webElementGuid>f1f0f0f3-0cb8-44d0-b8ad-03c8e1200bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>449034df-671b-4671-93fc-54bdcab389ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Anh còn những thiếu sót Đang cố gắng để hoàn thiện hơn Em toan tính thiệt hơn Chuyện nhỏ con xé cho thành lớn Không thể nào chịu nổi Em cắt tơ hồng làm đôi Muốn về phương trời mới Quãng đời sẽ sáng ngời' or . = 'Anh còn những thiếu sót Đang cố gắng để hoàn thiện hơn Em toan tính thiệt hơn Chuyện nhỏ con xé cho thành lớn Không thể nào chịu nổi Em cắt tơ hồng làm đôi Muốn về phương trời mới Quãng đời sẽ sáng ngời')]</value>
+      <webElementGuid>76580692-1a5e-4257-aa9e-391007a25ffa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

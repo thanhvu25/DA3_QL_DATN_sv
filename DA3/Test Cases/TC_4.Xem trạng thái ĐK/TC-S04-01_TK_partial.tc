@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-S04-01_TK_partial</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c28e7c6-1bdc-4ccc-a088-61a627326544</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4b201ebf-ecb2-4a09-8af6-d89fd7c1c125</id>
+      <masked>false</masked>
+      <name>tenDT</name>
+   </variable>
+</TestCaseEntity>

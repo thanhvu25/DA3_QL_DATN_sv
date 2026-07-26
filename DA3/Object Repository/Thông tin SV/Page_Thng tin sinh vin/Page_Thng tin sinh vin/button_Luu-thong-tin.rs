@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Luu-thong-tin</name>
+   <tag></tag>
+   <elementGuidId>8614df30-92ab-4e07-bc60-a029d9b0b956</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-sm.btn-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d8d97d00-9e6c-43c6-8997-0aedd8297b31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-success</value>
+      <webElementGuid>36d6873f-e5fa-4040-ba58-77c14d60aa13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>723b46d0-f31a-4dc0-9a3d-e2a44b84054b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                          Lưu thông tin
+                                    </value>
+      <webElementGuid>0d8dd5fb-7271-4415-9d36-eacf265ae40e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-0-content&quot;)/div[@class=&quot;ui-panel-content ui-widget-content&quot;]/form[@class=&quot;ng-dirty ng-star-inserted ng-touched ng-valid&quot;]/div[@class=&quot;ui-g lap-form&quot;]/div[@class=&quot;ui-g-12&quot;]/div[@class=&quot;ui-g-12 ui-md-2 text-right&quot;]/button[@class=&quot;btn btn-sm btn-success&quot;]</value>
+      <webElementGuid>e144f6fd-ef68-4d16-83bc-43387d0e252a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>6e9bdd94-e127-4ba6-be8a-d7e97a346c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-0-content']/div/form/div/div[2]/div[2]/button</value>
+      <webElementGuid>09a8a029-5e43-43fc-bf70-effe62134a0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CV.pdf'])[1]/following::button[1]</value>
+      <webElementGuid>2151190f-5aea-492d-8a7f-b32d6fe05f61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CV giới thiệu'])[1]/following::button[1]</value>
+      <webElementGuid>001592f3-9840-4448-94cc-9e81ed38fac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Không xác định'])[1]/preceding::button[1]</value>
+      <webElementGuid>6c024639-3358-4af4-abf1-6775dc88a097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nam'])[1]/preceding::button[1]</value>
+      <webElementGuid>47fc0b16-d355-46e4-bff2-686e380b72cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>181d818b-9715-415d-b8e6-3e5068900ea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                                          Lưu thông tin
+                                    ' or . = '
+                                          Lưu thông tin
+                                    ')]</value>
+      <webElementGuid>161d1e7e-4ea8-4306-b9b7-8d26f1b30b64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

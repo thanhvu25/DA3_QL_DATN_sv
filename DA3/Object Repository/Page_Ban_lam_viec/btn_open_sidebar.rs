@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_open_sidebar</name>
+   <tag></tag>
+   <elementGuidId>baf1023c-ac80-4e18-83fc-ce6212a13d53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='id0']/a/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>b.arrow.fa.fa-angle-down.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>05e00100-db7f-4154-98b5-4fa48c6ecc3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>arrow fa fa-angle-down ng-star-inserted</value>
+      <webElementGuid>7b3102c5-09d0-48ce-bc9c-2e64df4d7918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id0&quot;)/a[@class=&quot;dropdown-toggle&quot;]/b[@class=&quot;arrow fa fa-angle-down ng-star-inserted&quot;]</value>
+      <webElementGuid>d2886cd3-c774-41eb-9792-24f315bdfcaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='id0']/a/b</value>
+      <webElementGuid>7ae1efe3-c2cc-4dde-81c3-ad57546dfb74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/b</value>
+      <webElementGuid>09487310-627f-4592-930c-87b07569b0ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

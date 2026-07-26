@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_XONG ))    Bn  ng k  ti thnh cng</name>
+   <tag></tag>
+   <elementGuidId>e8b7585b-bfe9-4c7a-894e-5f2a6a0e0d36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='note_0']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content_notice</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>651a5599-4371-4246-addc-fecbb4aa68f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content_notice</value>
+      <webElementGuid>e114001b-d98a-4082-bbb5-e306f9184bed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>🐶 🐱 XONG =)): 🐷 🐔  Bạn đã đăng ký đề tài thành công</value>
+      <webElementGuid>b306cc59-9457-41be-98bb-0194e39d7637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;note_0&quot;)/div[@class=&quot;content_notice&quot;]</value>
+      <webElementGuid>380d2329-5471-4b1d-8be2-c842e895d0e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='note_0']/div</value>
+      <webElementGuid>76f3e38d-a257-4868-a5ac-9ab721f4c77a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khoa học máy tính'])[1]/following::div[2]</value>
+      <webElementGuid>d3a2f3ad-4e20-4baf-906a-9238be08ceb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hệ thống thông tin'])[1]/following::div[3]</value>
+      <webElementGuid>7e1ebcd2-bc56-4b17-8376-ab2c32d873c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='🐶 🐱 XONG =)): 🐷 🐔']/parent::*</value>
+      <webElementGuid>7e01afd0-d13b-4625-902b-c92265c8544b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div</value>
+      <webElementGuid>93171980-285f-430d-86ea-5c2b80aa47a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '🐶 🐱 XONG =)): 🐷 🐔  Bạn đã đăng ký đề tài thành công' or . = '🐶 🐱 XONG =)): 🐷 🐔  Bạn đã đăng ký đề tài thành công')]</value>
+      <webElementGuid>23b0c9e3-83fa-4ed4-acaa-cf4f225dc997</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>drop_Ten_GVHD</name>
+   <tag></tag>
+   <elementGuidId>1a4c89fc-bd4e-47df-b841-d93427877e97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-0-content']/div/form/div/div/div/div[4]/ng-selectize/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.selectize-input.items.not-full.focus.input-active.dropdown-active.has-options</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2a1765c6-824b-4086-bd05-c321c59e0d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectize-input items not-full focus input-active dropdown-active has-options</value>
+      <webElementGuid>7d5513ed-c90b-4792-8a79-2b6f8c591430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-0-content&quot;)/div[@class=&quot;ui-panel-content ui-widget-content&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ui-g lap-form&quot;]/div[@class=&quot;ui-g-12&quot;]/div[@class=&quot;ui-g-12 ui-form-group&quot;]/div[@class=&quot;ui-g-12 ui-md-3&quot;]/ng-selectize[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;selectize-control single plugin-remove_button plugin-enable_options&quot;]/div[@class=&quot;selectize-input items not-full focus input-active dropdown-active has-options&quot;]</value>
+      <webElementGuid>dcbbd6c3-154c-4054-825e-78a064acef87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-0-content']/div/form/div/div/div/div[4]/ng-selectize/div/div</value>
+      <webElementGuid>9fe675ba-a518-448f-855a-de4dc18ffada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên giảng viên'])[1]/following::div[3]</value>
+      <webElementGuid>091b23f5-3879-4df1-9197-1b0967f7990f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[4]</value>
+      <webElementGuid>43aa08dc-85d2-495f-8980-20c37ce0e24a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên đề tài'])[1]/preceding::div[1]</value>
+      <webElementGuid>d5e6519b-69de-4aaf-9cee-80e61f60767e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ng-selectize/div/div</value>
+      <webElementGuid>9de4e039-a4a1-4f73-b754-555b71829371</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

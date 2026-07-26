@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Chua_dang_nhap</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>5b3ee761-6b84-449b-8c26-b8eeee681840</testSuiteGuid>
+   <testCaseLink>
+      <guid>b766fda1-03fd-4554-b7a8-b913e556fa29</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_8_Xem phản biện/TC-S08-11_Chua_dang_nhap</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>975b1e79-3af8-46fb-bef0-f00d7522c308</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TD_Link</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>975b1e79-3af8-46fb-bef0-f00d7522c308</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Link</value>
+         <variableId>73fb4c43-3cd0-47f0-9747-89f5b2286ce0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>975b1e79-3af8-46fb-bef0-f00d7522c308</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Verify</value>
+         <variableId>ccb01254-080f-41d8-9002-01fc313c5b9c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

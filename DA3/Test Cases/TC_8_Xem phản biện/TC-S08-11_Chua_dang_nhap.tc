@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-S08-11_Chua_dang_nhap</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f603e210-80a6-4365-92df-460eb8e923ab</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73fb4c43-3cd0-47f0-9747-89f5b2286ce0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ccb01254-080f-41d8-9002-01fc313c5b9c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73fb4c43-3cd0-47f0-9747-89f5b2286ce0</id>
+      <masked>false</masked>
+      <name>link</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ccb01254-080f-41d8-9002-01fc313c5b9c</id>
+      <masked>false</masked>
+      <name>ver</name>
+   </variable>
+</TestCaseEntity>

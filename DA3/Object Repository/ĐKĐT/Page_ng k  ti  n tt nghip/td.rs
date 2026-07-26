@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td</name>
+   <tag></tag>
+   <elementGuidId>fd40ccbc-597e-442e-a701-0e4147325ed6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-container']/div/div/app-graduation-student-register-project-topic-ref/div[2]/div/div[3]/div/div/p-table/div/div/table/tbody/tr[2]/td[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5598a131-fd85-411f-932b-7616a967f6e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;main-content-inner&quot;]/app-graduation-student-register-project-topic-ref[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;ui-g-12 datatable-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/p-table[1]/div[@class=&quot;ui-table ui-widget&quot;]/div[@class=&quot;ui-table-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;ui-selectable-row ng-star-inserted&quot;]/td[9]</value>
+      <webElementGuid>b489bbb9-c5fe-4a53-b5d2-1aa5049dec62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/div/app-graduation-student-register-project-topic-ref/div[2]/div/div[3]/div/div/p-table/div/div/table/tbody/tr[2]/td[9]</value>
+      <webElementGuid>bcb538d7-f42d-4109-a076-5b3e1ae2c9c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test@gmail.com'])[2]/following::td[5]</value>
+      <webElementGuid>5ca83e72-4a4b-4cb4-b0bb-d6d2d62fe828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phạm Văn Đ'])[2]/following::td[6]</value>
+      <webElementGuid>86305010-a592-498d-9efd-275ff6df3d65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='èwesdxdw'])[1]/preceding::td[2]</value>
+      <webElementGuid>c44377e2-19f6-4585-9ddb-34be006f170d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phạm Văn Đ'])[3]/preceding::td[3]</value>
+      <webElementGuid>07bd4807-4248-4bab-80e2-49b7548bf20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[9]</value>
+      <webElementGuid>b2826893-d8d9-402e-96ef-e59b2dad51e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

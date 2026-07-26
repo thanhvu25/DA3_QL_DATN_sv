@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_VuVyThanh-BCDA1.pdf_itn fa fa-times-circle itnc</name>
+   <tag></tag>
+   <elementGuidId>0846058e-b2bf-405d-a3df-beaf54138405</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.itn.fa.fa-times-circle.itnc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-0-content']/div/form/div/div/div[5]/div[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>07167f33-fe32-45e0-a682-5a82dda0ae45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>itn fa fa-times-circle itnc</value>
+      <webElementGuid>f7e80a66-d0aa-474c-8cce-ba66788f0ed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-klass</name>
+      <type>Main</type>
+      <value>itn fa fa-times-circle</value>
+      <webElementGuid>ff0d1128-36ad-4d7c-b9e9-5507c661b91e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>itnc</value>
+      <webElementGuid>e94826ee-b63c-4c98-b343-2fa0767c4cde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-0-content&quot;)/div[@class=&quot;ui-panel-content ui-widget-content&quot;]/form[@class=&quot;ng-dirty ng-star-inserted ng-touched ng-valid&quot;]/div[@class=&quot;ui-g lap-form&quot;]/div[@class=&quot;ui-g-12&quot;]/div[@class=&quot;ui-g-12 ui-form-group&quot;]/div[@class=&quot;ui-g-12 ui-md-4&quot;]/i[@class=&quot;itn fa fa-times-circle itnc&quot;]</value>
+      <webElementGuid>b5116a47-7bbb-48c0-93e9-e65a9774d2b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-0-content']/div/form/div/div/div[5]/div[2]/i</value>
+      <webElementGuid>47327e43-4028-45fb-8236-f1278a0e4b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/i</value>
+      <webElementGuid>c6cbb9d6-31fd-4c36-a24f-162f8eaff201</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

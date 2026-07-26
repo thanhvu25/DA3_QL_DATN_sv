@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_button</name>
+   <tag></tag>
+   <elementGuidId>a2ae2490-9fe1-48bd-a131-799b870354cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[type=&quot;button&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='  Chọn tệp  ']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>953098eb-37f4-463c-a0f9-dd60f2eab5fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>423dde43-5803-46d8-9581-0e57a1da0443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>  Chọn tệp  </value>
+      <webElementGuid>d6f6b0be-c701-4166-ac6f-2c981279e997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-0-content&quot;)/div[@class=&quot;ui-panel-content ui-widget-content&quot;]/form[@class=&quot;ng-dirty ng-star-inserted ng-touched ng-valid&quot;]/div[@class=&quot;ui-g lap-form&quot;]/div[@class=&quot;ui-g-12&quot;]/div[@class=&quot;ui-g-12 ui-form-group&quot;]/div[@class=&quot;ui-g-12 ui-md-4&quot;]/input[2]</value>
+      <webElementGuid>57adebcf-22e1-42c4-8660-ea32ee087745</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='  Chọn tệp  ']</value>
+      <webElementGuid>155659f6-af79-4f04-9c60-ecfa91b0727b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-0-content']/div/form/div/div/div[5]/div[2]/input[2]</value>
+      <webElementGuid>443585d4-a85f-4401-8967-a8a1a81a230d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input[2]</value>
+      <webElementGuid>56097f16-e195-42fe-a146-f500982bf836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>dcc52d47-bdd5-43f4-ac78-50d95c80e4da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Index-button-sidebar-drop</name>
+   <tag></tag>
+   <elementGuidId>cabba985-2032-4f51-8556-ab0dff802d03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b.arrow.fa.fa-angle-down.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='id0']/a/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>93cd4816-cfad-4f2f-a757-6411c657b11c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>arrow fa fa-angle-down ng-star-inserted</value>
+      <webElementGuid>6230e402-dc78-4ee5-9e13-79a94fffb83b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id0&quot;)/a[@class=&quot;dropdown-toggle&quot;]/b[@class=&quot;arrow fa fa-angle-down ng-star-inserted&quot;]</value>
+      <webElementGuid>0e08e1b7-a051-449b-8438-8bbc02bdc002</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='id0']/a/b</value>
+      <webElementGuid>1911e989-277f-4101-b2ba-b5ba2a5b98dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/b</value>
+      <webElementGuid>69a60e55-dd25-47b5-aeae-86359bee8258</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

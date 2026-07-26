@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>86d03fb1-11a0-4217-851c-dc9b60157a69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='updateForm']/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-g-12.ui-md-10 > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ed6060ef-3502-4fa1-87f7-26cfed58e589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;updateForm&quot;)/div[@class=&quot;row ui-fluid&quot;]/div[@class=&quot;ui-g-12 ui-form-group&quot;]/div[@class=&quot;ui-g-12 ui-md-10&quot;]/div[1]</value>
+      <webElementGuid>518ed439-0d58-4258-a999-722fe98b46b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='updateForm']/div/div/div[2]/div</value>
+      <webElementGuid>2fb01f97-1063-4fd0-a4ba-4b539fa85416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>eaf7690f-2a13-4434-87d7-81ec3e5cd68c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-S04-01.02_TK_partial-full</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f8b8279-533d-418e-a488-b00d7bbe26a3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b9c1bb90-ee5e-45f1-99dd-7e4e394a3207</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b9c1bb90-ee5e-45f1-99dd-7e4e394a3207</id>
+      <masked>false</masked>
+      <name>tenDT</name>
+   </variable>
+</TestCaseEntity>
